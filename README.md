@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Prabina Pokharel 👋
+
+- 📚 I am currently a senior at UC San Diego, studying Data Science and Business Economics.
+- 🔭 I am an aspiring data scientist exploring the many possibilities of using data for the greater social good and contributing to transparency and accountability.
+- 👀 Find me at:
+  - ⌨️[Personal Website](https://www.prabina.me/)
+  - ⌨️[LinkedIn](https://www.linkedin.com/in/prabina-pokharel/)
+- 📫 How to reach me: ppokharel30@gmail.com
+ 
+
 
 <!--
 **prabina-p/prabina-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
