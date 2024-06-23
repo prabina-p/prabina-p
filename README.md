@@ -1,6 +1,6 @@
 ### Hi there, I'm Prabina Pokharel 👋
 
-- 📚 I am currently a senior at UC San Diego, studying Data Science and Business Economics.
+- 📚 I am a recent graduate from UC San Diego, with a degree in Data Science and a minor in Business Economics.
 - 🔭 I am an aspiring data scientist exploring the many possibilities of using data for the greater social good and contributing to transparency and accountability.
 - 👀 Find me at:
   - 💻 [Personal Website](https://www.prabina.me/)
